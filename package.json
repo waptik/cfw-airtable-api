@@ -1,5 +1,5 @@
 {
-  "name": "cloudflare-workers-airtable-api",
+  "name": "cfw-airtable-api",
   "version": "1.0.0",
   "description": "Cloudflare worker + Airtable + TypeScript template",
   "main": "build/index.mjs",
@@ -9,14 +9,14 @@
     "typescript",
     "airtable"
   ],
-  "homepage": "https://github.com/waptik/cloudflare-workers-airtable-api#readme",
+  "homepage": "https://github.com/waptik/cfw-airtable-api#readme",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/waptik/cloudflare-workers-airtable-api/issues"
+    "url": "https://github.com/waptik/cfw-airtable-api/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/waptik/cloudflare-workers-airtable-api.git"
+    "url": "git+https://github.com/waptik/cfw-airtable-api.git"
   },
   "author": {
     "name": "Stephane",
